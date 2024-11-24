@@ -52,9 +52,9 @@ The file manager enables browsing the file system, uploading files, and download
 2. Navigate to the project directory.
 3. Run the application:
    ```bash
-   python app.py
+   python server.py
    ```
-4. Open a web browser and go to `http://localhost:5000`.
+4. Open a web browser and go to `http://localhost`.
 
 ### Usage
 
